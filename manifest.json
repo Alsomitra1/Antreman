@@ -1,0 +1,17 @@
+{
+  "name": "5 Gün Yağ Yakım Planı",
+  "short_name": "Antrenman",
+  "description": "Haftada 5 gün, fotoğraflı hareketlerle yağ yakım odaklı antrenman programı.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EDF0F3",
+  "theme_color": "#0D5BD1",
+  "lang": "tr",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
